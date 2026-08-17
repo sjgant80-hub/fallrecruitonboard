@@ -34,7 +34,7 @@ Register candidates and clients through structured wizards that capture all UK r
 
 ### Key rules
 
-- **Immigration Act 2006**: RTW verification before engagement, TBAK penalty
+- **Immigration Act 2006**: RTW verification before engagement, £45K penalty
 - **DBS**: regulated activity roles require enhanced checks
 - **UK GDPR**: privacy notice, explicit consent for special category data
 - **Conduct Regulations 2003**: written terms, suitability checks
